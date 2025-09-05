@@ -1,5 +1,9 @@
 # Мой первый проект
+
 ## Проект
+
 Этот репозиторий является каркасом для будущего веб-приложения.
+
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://github.com/Khartsii/front)
+
+- [Публичная страница на GitHub Pages](https://khartsii.github.io/study_front/)
